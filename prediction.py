@@ -4,7 +4,7 @@ import numpy as np
 from keras.applications.inception_v3 import preprocess_input
 import tensorflow as tf
 import pickle
-from keras.preprocessing.sequence import pad_sequences
+from keras_preprocessing.sequence import pad_sequences
 from keras.preprocessing import image as img
 from keras.applications.inception_v3 import InceptionV3
 
