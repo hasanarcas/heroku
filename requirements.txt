@@ -4,4 +4,4 @@ starlette
 Pillow
 numpy
 keras
-tensorflow
+tensorflow-cpu
