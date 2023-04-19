@@ -2,7 +2,6 @@ fastapi
 uvicorn
 starlette
 Pillow
-io
 numpy
 keras
 tensorflow
