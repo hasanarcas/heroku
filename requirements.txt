@@ -5,4 +5,4 @@ Pillow
 numpy
 keras
 tensorflow-cpu
-keras-preprocessings
+keras-preprocessing
